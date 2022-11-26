@@ -1,7 +1,7 @@
 {
     "chain_name": "NEUTRON",
     "coingecko": "Neutron",
-    "api": ["http://45.94.209.3:1317/"],
+    "api": ["https://neutron-api.nodexcapital.com/"],
     "rpc": ["http://neutron.rpc.t.sultan-node.host"],
     "addr_prefix": "neutron",
     "coin_type": "639",
